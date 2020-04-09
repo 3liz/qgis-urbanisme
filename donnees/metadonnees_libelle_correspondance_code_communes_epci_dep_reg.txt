@@ -1,0 +1,6 @@
+CODGEO : Code géographique
+LIBGEO : Libellé géographique
+EPCI : EPCI - Métropole (siren)
+LIBEPECI : Libellé de l'EPCI / Métropole
+DEP : Département
+REG: Région
